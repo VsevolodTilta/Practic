@@ -31,28 +31,36 @@ namespace ConsoleApp23
 		}
 		static void Main(string[] args)
 		{
-			Console.Write("Введите первое число: ");
-			double a = double.Parse(Console.ReadLine());
-
-			Console.Write("Введите второе число: ");
-			double b = double.Parse(Console.ReadLine());
-
-			Console.Write("Введите третье число: ");
-			double h = double.Parse(Console.ReadLine());
-
-			for (double i = a; i <= b; i += h)
+			try
 			{
-				Console.WriteLine("f({0:f2})={1:f4}", i, f(i));
-			}
+				Console.Write("Введите первое число: ");
+				double a = double.Parse(Console.ReadLine());
 
-			for (double i = a; i <= b; i += h)
+				Console.Write("Введите второе число: ");
+				double b = double.Parse(Console.ReadLine());
+
+				Console.Write("Введите третье число: ");
+				double h = double.Parse(Console.ReadLine());
+
+				for (double i = a; i <= b; i += h)
+				{
+					Console.WriteLine("f({0:f2})={1:f4}", i, f(i));
+				}
+
+				for (double i = a; i <= b; i += h)
+				{
+					double y;
+					f(i, out y);
+
+					Console.WriteLine("f({0:f2})={1:f4}", i, y);
+				}
+				Console.ReadLine();
+			}
+			catch
 			{
-				double y;
-				f(i, out y);
-
-				Console.WriteLine("f({0:f2})={1:f4}", i, y);
+				Console.WriteLine("Неверные данные");
+				Console.ReadLine();
 			}
-			Console.ReadKey();
 		}
 	}
 }

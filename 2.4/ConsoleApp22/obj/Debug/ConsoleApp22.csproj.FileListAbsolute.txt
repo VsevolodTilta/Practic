@@ -5,3 +5,10 @@ C:\Users\Admin\source\repos\ConsoleApp22\ConsoleApp22\obj\Debug\ConsoleApp22.csp
 C:\Users\Admin\source\repos\ConsoleApp22\ConsoleApp22\obj\Debug\ConsoleApp22.csproj.CoreCompileInputs.cache
 C:\Users\Admin\source\repos\ConsoleApp22\ConsoleApp22\obj\Debug\ConsoleApp22.exe
 C:\Users\Admin\source\repos\ConsoleApp22\ConsoleApp22\obj\Debug\ConsoleApp22.pdb
+C:\Users\Admin\Desktop\ПОПА\2.4\ConsoleApp22\bin\Debug\ConsoleApp22.exe.config
+C:\Users\Admin\Desktop\ПОПА\2.4\ConsoleApp22\bin\Debug\ConsoleApp22.exe
+C:\Users\Admin\Desktop\ПОПА\2.4\ConsoleApp22\bin\Debug\ConsoleApp22.pdb
+C:\Users\Admin\Desktop\ПОПА\2.4\ConsoleApp22\obj\Debug\ConsoleApp22.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\ПОПА\2.4\ConsoleApp22\obj\Debug\ConsoleApp22.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\ПОПА\2.4\ConsoleApp22\obj\Debug\ConsoleApp22.exe
+C:\Users\Admin\Desktop\ПОПА\2.4\ConsoleApp22\obj\Debug\ConsoleApp22.pdb

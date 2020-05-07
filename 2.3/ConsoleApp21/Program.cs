@@ -10,32 +10,40 @@ namespace ConsoleApp21
 	{
 		static void Main(string[] args)
 		{
-            Console.Write("Введите количество фунтов: ");
-            byte n = byte.Parse(Console.ReadLine());
-            int i = 453;
-            Console.WriteLine("While: ");
-            while (i <= n * 453)
+            try
             {
-                Console.WriteLine(i / 453 + " = " + i);
-                i += 453;
-            }
+                Console.Write("Введите количество фунтов: ");
+                byte n = byte.Parse(Console.ReadLine());
+                int i = 453;
+                Console.WriteLine("While: ");
+                while (i <= n * 453)
+                {
+                    Console.WriteLine(i / 453 + " = " + i);
+                    i += 453;
+                }
 
-            i = 453;
-            Console.WriteLine("Do while: ");
-            do
+                i = 453;
+                Console.WriteLine("Do while: ");
+                do
+                {
+                    Console.WriteLine(i / 453 + " = " + i);
+                    i += 453;
+                }
+                while (i <= n * 453);
+
+                Console.WriteLine("For: ");
+                for (i = 453; i <= n * 453; i += 453)
+                {
+                    Console.WriteLine(i / 453 + " = " + i);
+                }
+
+                Console.ReadKey();
+            }
+            catch
             {
-                Console.WriteLine(i / 453 + " = " + i);
-                i += 453;
+                Console.WriteLine("Неверные данные");
+                Console.ReadKey();
             }
-            while (i <= n * 453);
-
-            Console.WriteLine("For: ");
-            for (i = 453; i <= n * 453; i+= 453)
-            {
-                Console.WriteLine(i / 453 + " = " + i);
-            }
-
-            Console.ReadKey();
         }
     }
 }

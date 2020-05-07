@@ -5,3 +5,10 @@ C:\Users\Admin\source\repos\ConsoleApp20\ConsoleApp20\obj\Debug\ConsoleApp20.csp
 C:\Users\Admin\source\repos\ConsoleApp20\ConsoleApp20\obj\Debug\ConsoleApp20.csproj.CoreCompileInputs.cache
 C:\Users\Admin\source\repos\ConsoleApp20\ConsoleApp20\obj\Debug\ConsoleApp20.exe
 C:\Users\Admin\source\repos\ConsoleApp20\ConsoleApp20\obj\Debug\ConsoleApp20.pdb
+C:\Users\Admin\Desktop\ПОПА\2.1\ConsoleApp20\bin\Debug\ConsoleApp20.exe.config
+C:\Users\Admin\Desktop\ПОПА\2.1\ConsoleApp20\bin\Debug\ConsoleApp20.exe
+C:\Users\Admin\Desktop\ПОПА\2.1\ConsoleApp20\bin\Debug\ConsoleApp20.pdb
+C:\Users\Admin\Desktop\ПОПА\2.1\ConsoleApp20\obj\Debug\ConsoleApp20.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\ПОПА\2.1\ConsoleApp20\obj\Debug\ConsoleApp20.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\ПОПА\2.1\ConsoleApp20\obj\Debug\ConsoleApp20.exe
+C:\Users\Admin\Desktop\ПОПА\2.1\ConsoleApp20\obj\Debug\ConsoleApp20.pdb

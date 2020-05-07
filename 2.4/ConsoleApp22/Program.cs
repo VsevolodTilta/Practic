@@ -10,19 +10,26 @@ namespace ConsoleApp22
 	{
 		static void Main(string[] args)
 		{
-            int i, j;
-            int num = 7;
-            int d = 1;
-            for (i = 0; i < 5; i++)
+            try
             {
-                for (j = 0; j < d; j++)
+                int i, j;
+                int num = 7;
+                int d = 1;
+                for (i = 0; i < 5; i++)
                 {
-                    Console.Write(num + "  ");
+                    for (j = 0; j < d; j++)
+                    {
+                        Console.Write(num + "  ");
+                    }
+                    d++;
+                    Console.WriteLine();
                 }
-                d++;
-                Console.WriteLine();
+                Console.ReadKey();
             }
-            Console.ReadLine();
+            catch{
+                Console.WriteLine("Неверные данные");
+                Console.ReadKey();
+            }
         }
 	}
 }

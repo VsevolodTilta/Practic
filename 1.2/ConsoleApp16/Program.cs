@@ -16,7 +16,7 @@ namespace ConsoleApp16
 				Console.WriteLine("Число оканчивается на 7");
 			else
 				Console.WriteLine("Число не оканчивается на 7");
-			Console.ReadKey();
+			Console.ReadLine();
 		}
 	}
 }

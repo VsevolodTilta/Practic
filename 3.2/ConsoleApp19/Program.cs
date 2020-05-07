@@ -8,16 +8,6 @@ namespace ConsoleApp19
 {
 	class Program
 	{
-		static void f(double x, out double y)
-		{
-			if (Math.Abs(x) <= 0.1)
-				y = Math.Pow(x, 3) - 0.1;
-			else if (Math.Abs(x) >= 0.1)
-				y = 0.2 * x - 0.1;
-			else
-				y = Math.Pow(x, 3) + 0.1;
-		}
-
 		static double f (double x)
 		{
 			double y;
@@ -31,20 +21,28 @@ namespace ConsoleApp19
 		}
 		static void Main(string[] args)
 		{
-			Console.Write("Введите первое число: ");
-			double a = double.Parse(Console.ReadLine());
-
-			Console.Write("Введите второе число: ");
-			double b = double.Parse(Console.ReadLine());
-
-			Console.Write("Введите третье число: ");
-			double h = double.Parse(Console.ReadLine());
-
-			for (double i = a; i <= b; i += h)
+			try
 			{
-				Console.WriteLine("f({0:f2})={1:f4}", i, f(i));
+				Console.Write("Введите первое число: ");
+				double a = double.Parse(Console.ReadLine());
+
+				Console.Write("Введите второе число: ");
+				double b = double.Parse(Console.ReadLine());
+
+				Console.Write("Введите третье число: ");
+				double h = double.Parse(Console.ReadLine());
+
+				for (double i = a; i <= b; i += h)
+				{
+					Console.WriteLine("f({0:f2})={1:f4}", i, f(i));
+				}
+				Console.ReadLine();
 			}
-			Console.ReadKey();
+			catch
+			{
+				Console.WriteLine("Неверные данные");
+				Console.ReadLine();
+			}
 		}
 	}
 }

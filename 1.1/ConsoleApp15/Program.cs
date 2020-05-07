@@ -16,7 +16,7 @@ namespace ConsoleApp15
 			double n = double.Parse(Console.ReadLine());
 			double p = Math.Sqrt(Math.Abs(s*n));
 			Console.WriteLine("Среднее геометрическое двух модулей = " + p);
-			Console.ReadKey();
+			Console.ReadLine();
 		}
 	}
 }

@@ -5,3 +5,10 @@ C:\Users\Admin\source\repos\ConsoleApp17\ConsoleApp17\obj\Debug\ConsoleApp17.csp
 C:\Users\Admin\source\repos\ConsoleApp17\ConsoleApp17\obj\Debug\ConsoleApp17.csproj.CoreCompileInputs.cache
 C:\Users\Admin\source\repos\ConsoleApp17\ConsoleApp17\obj\Debug\ConsoleApp17.exe
 C:\Users\Admin\source\repos\ConsoleApp17\ConsoleApp17\obj\Debug\ConsoleApp17.pdb
+C:\Users\Admin\Desktop\ПОПА\2.2\ConsoleApp17\bin\Debug\ConsoleApp17.exe.config
+C:\Users\Admin\Desktop\ПОПА\2.2\ConsoleApp17\bin\Debug\ConsoleApp17.exe
+C:\Users\Admin\Desktop\ПОПА\2.2\ConsoleApp17\bin\Debug\ConsoleApp17.pdb
+C:\Users\Admin\Desktop\ПОПА\2.2\ConsoleApp17\obj\Debug\ConsoleApp17.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\ПОПА\2.2\ConsoleApp17\obj\Debug\ConsoleApp17.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\ПОПА\2.2\ConsoleApp17\obj\Debug\ConsoleApp17.exe
+C:\Users\Admin\Desktop\ПОПА\2.2\ConsoleApp17\obj\Debug\ConsoleApp17.pdb
