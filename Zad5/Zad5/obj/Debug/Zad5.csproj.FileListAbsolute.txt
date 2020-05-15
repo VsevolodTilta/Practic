@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\Zad5\Zad5\bin\Debug\Zad5.exe.config
+C:\Users\Admin\source\repos\Zad5\Zad5\bin\Debug\Zad5.exe
+C:\Users\Admin\source\repos\Zad5\Zad5\bin\Debug\Zad5.pdb
+C:\Users\Admin\source\repos\Zad5\Zad5\obj\Debug\Zad5.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Zad5\Zad5\obj\Debug\Zad5.Form1.resources
+C:\Users\Admin\source\repos\Zad5\Zad5\obj\Debug\Zad5.Properties.Resources.resources
+C:\Users\Admin\source\repos\Zad5\Zad5\obj\Debug\Zad5.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Zad5\Zad5\obj\Debug\Zad5.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Zad5\Zad5\obj\Debug\Zad5.exe
+C:\Users\Admin\source\repos\Zad5\Zad5\obj\Debug\Zad5.pdb

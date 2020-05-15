@@ -1,0 +1,13 @@
+C:\Users\Zver\source\repos\ConsoleApp5\ConsoleApp5\bin\Debug\ConsoleApp5.exe.config
+C:\Users\Zver\source\repos\ConsoleApp5\ConsoleApp5\bin\Debug\ConsoleApp5.exe
+C:\Users\Zver\source\repos\ConsoleApp5\ConsoleApp5\bin\Debug\ConsoleApp5.pdb
+C:\Users\Zver\source\repos\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.csprojAssemblyReference.cache
+C:\Users\Zver\source\repos\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.exe
+C:\Users\Zver\source\repos\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.pdb
+C:\Users\Admin\Desktop\ConsoleApp5\ConsoleApp5\bin\Debug\ConsoleApp5.exe.config
+C:\Users\Admin\Desktop\ConsoleApp5\ConsoleApp5\bin\Debug\ConsoleApp5.exe
+C:\Users\Admin\Desktop\ConsoleApp5\ConsoleApp5\bin\Debug\ConsoleApp5.pdb
+C:\Users\Admin\Desktop\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.exe
+C:\Users\Admin\Desktop\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.pdb
