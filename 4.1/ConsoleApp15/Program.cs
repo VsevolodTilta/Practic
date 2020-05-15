@@ -14,7 +14,7 @@ namespace ConsoleApp15
             {
                 return m + 1;
             }
-            else if (n >= 0 && m == 0)
+            else if (n != 0 && m == 0)
             {
                 return recursion(n - 1, 1);
             }

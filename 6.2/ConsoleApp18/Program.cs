@@ -54,16 +54,22 @@ namespace ConsoleApp18
 
 		static void Main(string[] args)
 		{
-			int[] Massive = Mass();
-			Console.WriteLine("Исходный массив: ");
-			Print(Massive);
-			int indexMax = Max(Massive);
-			Console.Write("Максимальный элемент массива: " + Massive[indexMax]);
-			Console.WriteLine();
-			Console.Write("Измененный массив: ");
-			Change(Massive, indexMax);
-			Print(Massive);
-
+			try
+			{
+				int[] Massive = Mass();
+				Console.WriteLine("Исходный массив: ");
+				Print(Massive);
+				int indexMax = Max(Massive);
+				Console.Write("Максимальный элемент массива: " + Massive[indexMax]);
+				Console.WriteLine();
+				Console.Write("Измененный массив: ");
+				Change(Massive, indexMax);
+				Print(Massive);
+			}
+			catch
+			{
+				Console.WriteLine("Неверные данные");
+			}
 			Console.ReadKey();
 		}
 	}

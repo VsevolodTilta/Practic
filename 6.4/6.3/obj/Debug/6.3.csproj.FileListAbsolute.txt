@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\6.3\6.3\obj\Debug\6.3.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\6.3\6.3\obj\Debug\6.3.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\6.3\6.3\bin\Debug\6.3.exe.config
+C:\Users\Admin\source\repos\6.3\6.3\bin\Debug\6.3.exe
+C:\Users\Admin\source\repos\6.3\6.3\bin\Debug\6.3.pdb
+C:\Users\Admin\source\repos\6.3\6.3\obj\Debug\6.3.exe
+C:\Users\Admin\source\repos\6.3\6.3\obj\Debug\6.3.pdb
+C:\Users\Admin\Desktop\ПОПА\6.4\6.3\bin\Debug\6.3.exe.config
+C:\Users\Admin\Desktop\ПОПА\6.4\6.3\bin\Debug\6.3.exe
+C:\Users\Admin\Desktop\ПОПА\6.4\6.3\bin\Debug\6.3.pdb
+C:\Users\Admin\Desktop\ПОПА\6.4\6.3\obj\Debug\6.3.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\ПОПА\6.4\6.3\obj\Debug\6.3.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\ПОПА\6.4\6.3\obj\Debug\6.3.exe
+C:\Users\Admin\Desktop\ПОПА\6.4\6.3\obj\Debug\6.3.pdb

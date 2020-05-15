@@ -80,14 +80,21 @@ namespace _6._3
 
 		static void Main(string[] args)
 		{
-			int[,] Massive = Mass();
-			int[] Vector = Vect();
-			Console.Write("Исходный массив: " + "\n");
-			PrintMass(Massive);
-			Console.Write("Исходный вектор: " + "\n");
-			PrintVectr(Vector);
-			Console.Write("Перемноженный вектор на массив: " + "\n");
-			decision(Massive, Vector);
+			try
+			{
+				int[,] Massive = Mass();
+				int[] Vector = Vect();
+				Console.Write("Исходный массив: " + "\n");
+				PrintMass(Massive);
+				Console.Write("Исходный вектор: " + "\n");
+				PrintVectr(Vector);
+				Console.Write("Перемноженный вектор на массив: " + "\n");
+				decision(Massive, Vector);
+			}
+			catch
+			{
+				Console.WriteLine("Неверные данные");
+			}
 
 			Console.ReadKey();
 		}

@@ -49,7 +49,7 @@ namespace Zad6
 				label4.Text += mass[i] + " ";
 			}
 		}
-		//Задание 1.2
+		
 		private void button1_Click(object sender, EventArgs e)
 		{
 			try
@@ -65,7 +65,7 @@ namespace Zad6
 				MessageBox.Show("Неверные данные");
 			}
 		}
-
+		//Задание 1.2
 		int[,] Mass1()
 		{
 			int n = int.Parse(textBox3.Text);
@@ -181,7 +181,7 @@ namespace Zad6
 				MessageBox.Show("Неверные данные");
 			}
 		}
-		//Задание 3
+		//Задание 4
 		int[,] Mass3()
 		{
 			int n = int.Parse(textBox7.Text);
@@ -265,6 +265,62 @@ namespace Zad6
 				MessageBox.Show("Неверные данные");
 			}
 			
+		}
+		//Задание 3
+		int[,] Mass4()
+		{
+			int n = int.Parse(textBox10.Text);
+			int m = int.Parse(textBox11.Text);
+			int[,] mass = new int[n, m];
+			Random rand = new Random();
+
+			for (int i = 0; i < mass.GetLength(0); i++)
+			{
+				for (int j = 0; j < mass.GetLength(1); j++)
+				{
+					mass[i, j] = rand.Next(0, 10);
+				}
+			}
+			return mass;
+		}
+
+		void Print3(int[,] mass)
+		{
+			for (int i = 0; i < mass.GetLength(0); i++)
+			{
+				for (int j = 0; j < mass.GetLength(1); j++)
+				{
+					richTextBox4.Text += mass[i, j] + " ";
+				}
+				richTextBox4.Text += "\n";
+			}
+		}
+
+		float Srednee(int[,] mass)
+		{
+			int s = 0;
+			int n = mass.GetLength(0);
+			for (int i = 0; i < n; i++)
+			{
+				s += mass[i, n - i - 1];
+			}
+			richTextBox4.Text += (float)s / n;
+			return (float)s / n;
+		}
+		private void button5_Click(object sender, EventArgs e)
+		{
+			try
+			{
+				int[,] Massive = Mass4();
+				richTextBox4.Text += "Исходный массив: " + "\n";
+				Print3(Massive);
+				richTextBox4.Text += "Среднее арифметическое: ";
+				Srednee(Massive);
+			}
+			catch
+			{
+				MessageBox.Show("Неверные данные");
+			}
 		}
 	}
 }

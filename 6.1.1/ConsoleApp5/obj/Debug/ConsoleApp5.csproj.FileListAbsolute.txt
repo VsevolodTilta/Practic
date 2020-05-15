@@ -11,3 +11,10 @@ C:\Users\Admin\Desktop\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.csprojAssem
 C:\Users\Admin\Desktop\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.csproj.CoreCompileInputs.cache
 C:\Users\Admin\Desktop\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.exe
 C:\Users\Admin\Desktop\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.pdb
+C:\Users\Admin\Desktop\ПОПА\6.1.1\ConsoleApp5\bin\Debug\ConsoleApp5.exe.config
+C:\Users\Admin\Desktop\ПОПА\6.1.1\ConsoleApp5\bin\Debug\ConsoleApp5.exe
+C:\Users\Admin\Desktop\ПОПА\6.1.1\ConsoleApp5\bin\Debug\ConsoleApp5.pdb
+C:\Users\Admin\Desktop\ПОПА\6.1.1\ConsoleApp5\obj\Debug\ConsoleApp5.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\ПОПА\6.1.1\ConsoleApp5\obj\Debug\ConsoleApp5.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\ПОПА\6.1.1\ConsoleApp5\obj\Debug\ConsoleApp5.exe
+C:\Users\Admin\Desktop\ПОПА\6.1.1\ConsoleApp5\obj\Debug\ConsoleApp5.pdb

@@ -5,3 +5,10 @@ C:\Users\Admin\source\repos\ConsoleApp15\ConsoleApp15\obj\Debug\ConsoleApp15.csp
 C:\Users\Admin\source\repos\ConsoleApp15\ConsoleApp15\obj\Debug\ConsoleApp15.csproj.CoreCompileInputs.cache
 C:\Users\Admin\source\repos\ConsoleApp15\ConsoleApp15\obj\Debug\ConsoleApp15.exe
 C:\Users\Admin\source\repos\ConsoleApp15\ConsoleApp15\obj\Debug\ConsoleApp15.pdb
+C:\Users\Admin\Desktop\ПОПА\4.1\ConsoleApp15\bin\Debug\ConsoleApp15.exe.config
+C:\Users\Admin\Desktop\ПОПА\4.1\ConsoleApp15\bin\Debug\ConsoleApp15.exe
+C:\Users\Admin\Desktop\ПОПА\4.1\ConsoleApp15\bin\Debug\ConsoleApp15.pdb
+C:\Users\Admin\Desktop\ПОПА\4.1\ConsoleApp15\obj\Debug\ConsoleApp15.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\ПОПА\4.1\ConsoleApp15\obj\Debug\ConsoleApp15.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\ПОПА\4.1\ConsoleApp15\obj\Debug\ConsoleApp15.exe
+C:\Users\Admin\Desktop\ПОПА\4.1\ConsoleApp15\obj\Debug\ConsoleApp15.pdb
