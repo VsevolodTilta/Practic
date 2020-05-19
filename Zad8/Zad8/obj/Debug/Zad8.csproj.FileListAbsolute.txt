@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\Zad8\Zad8\bin\Debug\Zad8.exe.config
+C:\Users\Admin\source\repos\Zad8\Zad8\bin\Debug\Zad8.exe
+C:\Users\Admin\source\repos\Zad8\Zad8\bin\Debug\Zad8.pdb
+C:\Users\Admin\source\repos\Zad8\Zad8\obj\Debug\Zad8.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Zad8\Zad8\obj\Debug\Zad8.Form1.resources
+C:\Users\Admin\source\repos\Zad8\Zad8\obj\Debug\Zad8.Properties.Resources.resources
+C:\Users\Admin\source\repos\Zad8\Zad8\obj\Debug\Zad8.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Zad8\Zad8\obj\Debug\Zad8.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Zad8\Zad8\obj\Debug\Zad8.exe
+C:\Users\Admin\source\repos\Zad8\Zad8\obj\Debug\Zad8.pdb

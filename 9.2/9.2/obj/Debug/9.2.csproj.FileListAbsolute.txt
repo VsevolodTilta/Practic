@@ -1,0 +1,12 @@
+C:\Users\Zver\source\repos\9.2\9.2\bin\Debug\9.2.exe.config
+C:\Users\Zver\source\repos\9.2\9.2\bin\Debug\9.2.exe
+C:\Users\Zver\source\repos\9.2\9.2\bin\Debug\9.2.pdb
+C:\Users\Zver\source\repos\9.2\9.2\obj\Debug\9.2.exe
+C:\Users\Zver\source\repos\9.2\9.2\obj\Debug\9.2.pdb
+C:\Users\Admin\Desktop\9.2\9.2\bin\Debug\9.2.exe.config
+C:\Users\Admin\Desktop\9.2\9.2\bin\Debug\9.2.exe
+C:\Users\Admin\Desktop\9.2\9.2\bin\Debug\9.2.pdb
+C:\Users\Admin\Desktop\9.2\9.2\obj\Debug\9.2.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\9.2\9.2\obj\Debug\9.2.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\9.2\9.2\obj\Debug\9.2.exe
+C:\Users\Admin\Desktop\9.2\9.2\obj\Debug\9.2.pdb
