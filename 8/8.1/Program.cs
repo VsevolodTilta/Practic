@@ -13,10 +13,10 @@ namespace _8._1
 		{
 			try
 			{
-				Console.WriteLine("Введите строку: ");
+				Console.Write("Введите строку: ");
 				string retVal = Regex.Replace(Console.ReadLine(), @"\b\w\b", "");
 				retVal = Regex.Replace(retVal, @"\s+", " ");
-				Console.WriteLine("Измененная строка: " + retVal);
+				Console.Write("Измененная строка: " + retVal);
 			}
 			catch
 			{

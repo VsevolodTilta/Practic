@@ -49,7 +49,7 @@ namespace Zad7
                 {
                     if (mass[i].EndsWith(x.ToString()))
                     {
-                        richTextBox1.Text += $"Удалены те слова которые заканчиваются на заданный символ {x}: {mass[i]}";
+                        richTextBox1.Text += $"Удалены те слова которые заканчиваются на заданный символ {x}: {mass[i]}" + "\n" + "\n";
                     }
                 }
             }

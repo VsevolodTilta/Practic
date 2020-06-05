@@ -8,3 +8,13 @@ C:\Users\Admin\source\repos\Zad9\Zad9\obj\Debug\Zad9.csproj.GenerateResource.cac
 C:\Users\Admin\source\repos\Zad9\Zad9\obj\Debug\Zad9.csproj.CoreCompileInputs.cache
 C:\Users\Admin\source\repos\Zad9\Zad9\obj\Debug\Zad9.exe
 C:\Users\Admin\source\repos\Zad9\Zad9\obj\Debug\Zad9.pdb
+C:\Users\Admin\Desktop\ПОПА\Zad9\Zad9\bin\Debug\Zad9.exe.config
+C:\Users\Admin\Desktop\ПОПА\Zad9\Zad9\bin\Debug\Zad9.exe
+C:\Users\Admin\Desktop\ПОПА\Zad9\Zad9\bin\Debug\Zad9.pdb
+C:\Users\Admin\Desktop\ПОПА\Zad9\Zad9\obj\Debug\Zad9.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\ПОПА\Zad9\Zad9\obj\Debug\Zad9.Form1.resources
+C:\Users\Admin\Desktop\ПОПА\Zad9\Zad9\obj\Debug\Zad9.Properties.Resources.resources
+C:\Users\Admin\Desktop\ПОПА\Zad9\Zad9\obj\Debug\Zad9.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\ПОПА\Zad9\Zad9\obj\Debug\Zad9.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\ПОПА\Zad9\Zad9\obj\Debug\Zad9.exe
+C:\Users\Admin\Desktop\ПОПА\Zad9\Zad9\obj\Debug\Zad9.pdb

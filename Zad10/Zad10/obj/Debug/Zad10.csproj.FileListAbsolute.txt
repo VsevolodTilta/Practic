@@ -8,3 +8,13 @@ C:\Users\Admin\source\repos\Zad10\Zad10\obj\Debug\Zad10.csproj.GenerateResource.
 C:\Users\Admin\source\repos\Zad10\Zad10\obj\Debug\Zad10.csproj.CoreCompileInputs.cache
 C:\Users\Admin\source\repos\Zad10\Zad10\obj\Debug\Zad10.exe
 C:\Users\Admin\source\repos\Zad10\Zad10\obj\Debug\Zad10.pdb
+C:\Users\Admin\Desktop\ПОПА\Zad10\Zad10\bin\Debug\Zad10.exe.config
+C:\Users\Admin\Desktop\ПОПА\Zad10\Zad10\bin\Debug\Zad10.exe
+C:\Users\Admin\Desktop\ПОПА\Zad10\Zad10\bin\Debug\Zad10.pdb
+C:\Users\Admin\Desktop\ПОПА\Zad10\Zad10\obj\Debug\Zad10.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\ПОПА\Zad10\Zad10\obj\Debug\Zad10.Form1.resources
+C:\Users\Admin\Desktop\ПОПА\Zad10\Zad10\obj\Debug\Zad10.Properties.Resources.resources
+C:\Users\Admin\Desktop\ПОПА\Zad10\Zad10\obj\Debug\Zad10.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\ПОПА\Zad10\Zad10\obj\Debug\Zad10.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\ПОПА\Zad10\Zad10\obj\Debug\Zad10.exe
+C:\Users\Admin\Desktop\ПОПА\Zad10\Zad10\obj\Debug\Zad10.pdb
