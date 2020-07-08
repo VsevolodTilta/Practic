@@ -1,0 +1,6 @@
+Moto;gaz;220;123A;300;false
+Moto;java;160;345B;360;true
+Legko;volga;140;789C;400
+Legko;jigul;160;456D;400
+Gruzovie;laz;22,5;852E;500;true
+Gruzovie;bogdan;330;951F;450;false

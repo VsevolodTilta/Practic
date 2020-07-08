@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\Zad 12\Zad 12\obj\Debug\Zad 12.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Zad 12\Zad 12\obj\Debug\Zad_12.Form1.resources
+C:\Users\Admin\source\repos\Zad 12\Zad 12\obj\Debug\Zad_12.Properties.Resources.resources
+C:\Users\Admin\source\repos\Zad 12\Zad 12\obj\Debug\Zad 12.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Zad 12\Zad 12\obj\Debug\Zad 12.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Zad 12\Zad 12\bin\Debug\Zad 12.exe.config
+C:\Users\Admin\source\repos\Zad 12\Zad 12\bin\Debug\Zad 12.exe
+C:\Users\Admin\source\repos\Zad 12\Zad 12\bin\Debug\Zad 12.pdb
+C:\Users\Admin\source\repos\Zad 12\Zad 12\obj\Debug\Zad 12.exe
+C:\Users\Admin\source\repos\Zad 12\Zad 12\obj\Debug\Zad 12.pdb
